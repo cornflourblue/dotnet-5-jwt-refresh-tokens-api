@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApi.Models
+namespace WebApi.Models.Users
 {
     public class AuthenticateRequest
     {

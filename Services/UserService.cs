@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using WebApi.Entities;
 using WebApi.Helpers;
-using WebApi.Models;
+using WebApi.Models.Users;
 using WebApi.Authorization;
 
 namespace WebApi.Services

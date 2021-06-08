@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 using WebApi.Authorization;
-using WebApi.Models;
+using WebApi.Models.Users;
 using WebApi.Services;
 
 namespace WebApi.Controllers
